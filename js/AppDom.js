@@ -1,4 +1,7 @@
 import Swipe from "swipejs";
+/**
+ *  IP ADDRESS TO BE CHANGED
+ */
 const IP = `192.168.1.239`;
 export default class App {
   constructor() {
