@@ -21,5 +21,5 @@ npm run start
 
 # CHECK
 
-Change IP address at the top of AppDom.js to match the server IP address.<br/>
+Change IP address at the top of Socket.js to match the server IP address.<br/>
 Run the server first, then launch the iPad app. (Otherwise connection won't be running)
