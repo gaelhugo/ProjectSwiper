@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "author": "Gael Hugo",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.4.2"
+  },
+  "devDependencies": {}
+}
